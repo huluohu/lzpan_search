@@ -4,7 +4,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
-const appTitle = '懒盘搜索聚合官网 - lzpan.com'
+const appTitle = '懒盘搜索聚合官网 - sopan.huluohu.com'
 module.exports = {
     mode: "development",
     entry: {
